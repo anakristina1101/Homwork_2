@@ -1,4 +1,4 @@
-# Portfolio.2
+# Portfolio2
 
 Built using HTML and CSS 
 Navigation and content use bootstrap 
